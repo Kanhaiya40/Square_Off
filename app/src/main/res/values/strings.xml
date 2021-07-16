@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SquareOff</string>
+    <string name="name_slug">Name-Slug :</string>
+    <string name="fifa">Fifa</string>
+    <string name="dash">-</string>
+    <string name="slug">slug</string>
+    <string name="year">Year : </string>
+    <string name="_2021">2021</string>
+    <string name="_8">8</string>
+    <string name="image_icon">image_icon</string>
+    <string name="name">Name</string>
+</resources>
